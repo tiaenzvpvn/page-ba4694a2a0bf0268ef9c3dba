@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.fengchengmuju.com/sitemap.xml
